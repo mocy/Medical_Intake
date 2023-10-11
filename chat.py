@@ -61,11 +61,11 @@ if __name__ == '__main__':
     
     while True:
         # get user input
-        text = input('\n\nPATIENT: ').strip()
+        text = input('\n\CLIENT: ').strip()
         if text == 'DONE':
             break
         user_messages.append(text)
-        all_messages.append('PATIENT: %s' % text)
+        all_messages.append('CLIENT: %s' % text)
         conversation.append({'role': 'user', 'content': text})
         response, tokens = chatbot(conversation)
         conversation.append({'role': 'assistant', 'content': response})
