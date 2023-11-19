@@ -1,0 +1,29 @@
+1. ACUTE GASTROENTERITIS: An inflammation of the gastrointestinal tract, often caused by a viral, bacterial, or parasitic infection.
+   - DIFFERENTIALS: Food poisoning, appendicitis, gastritis, peptic ulcer disease
+   - DEMOGRAPHICS: Common in children, especially those in school or daycare settings
+   - SYMPTOMS: Vomiting, stomach pain, diarrhea, fever, lethargy
+   - INDICATORS: Recent episode of gastroenteritis, vomiting episode, stomach pain prior to vomiting
+   - CONTRAINDICATORS: No fever, diarrhea, or lethargy reported; patient has been able to eat and drink normally post-vomiting episode
+   - PROGNOSIS: Generally good with proper hydration and rest
+   - TREATMENT: Rehydration, rest, and symptomatic treatment
+   - TESTS: Stool culture, blood tests to check for dehydration, and abdominal ultrasound if symptoms persist
+
+2. FOOD ALLERGY: An immune system reaction that occurs soon after eating a certain food.
+   - DIFFERENTIALS: Food intolerance, gastroenteritis, gastritis
+   - DEMOGRAPHICS: More common in children than adults, especially those with a family history of allergies
+   - SYMPTOMS: Vomiting, stomach pain, hives, shortness of breath
+   - INDICATORS: Known allergies to peanuts, tree nuts, sesame, and eggs; vomiting episode
+   - CONTRAINDICATORS: No known exposure to allergens prior to the episode; no other symptoms such as hives or shortness of breath reported
+   - PROGNOSIS: Lifelong condition, but many children outgrow their food allergies
+   - TREATMENT: Avoidance of allergens, antihistamines for mild reactions, and epinephrine for severe reactions
+   - TESTS: Skin prick test, blood test, oral food challenge
+
+3. GASTRIC DYSMOTILITY: A condition where the stomach takes too long to empty its contents.
+   - DIFFERENTIALS: Gastroenteritis, food allergy, gastritis
+   - DEMOGRAPHICS: Can occur in any age group, but more common in children with neurological or muscular disorders
+   - SYMPTOMS: Vomiting, stomach pain, feeling full quickly
+   - INDICATORS: Vomiting episode, stomach pain prior to vomiting
+   - CONTRAINDICATORS: Patient has been able to eat and drink normally post-vomiting episode
+   - PROGNOSIS: Depends on the underlying cause, but generally manageable with dietary changes and medication
+   - TREATMENT: Dietary changes, prokinetic drugs, and in severe cases, surgery
+   - TESTS: Gastric emptying study, upper gastrointestinal (GI) endoscopy, abdominal ultrasound

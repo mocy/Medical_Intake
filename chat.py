@@ -4,7 +4,38 @@ from time import time, sleep
 from halo import Halo
 import textwrap
 import yaml
+import pyperclip
+import os
 
+def get_input(prompt):
+    """
+    Get input from the user, with support for fetching content from the clipboard and loading from a file.
+    """
+    text = input(prompt).strip()
+
+    if text == "/?":
+        print("Commands:")
+        print("  /paste - Paste from clipboard.")
+        print("  /load <filename> - Load content from a file.")
+        return get_input(prompt)
+    
+    if text == "/paste":
+        text = pyperclip.paste().strip()
+        print(text)
+        return text
+    
+    if text.startswith("/load "):
+        filename = text.split(" ", 1)[1]
+        if os.path.exists(filename):
+            with open(filename, 'r') as f:
+                content = f.read().strip()
+                print(content)
+                return content
+        else:
+            print(f"File '{filename}' not found.")
+            return get_input(prompt)
+    
+    return text
 
 ###     file operations
 
@@ -61,7 +92,7 @@ if __name__ == '__main__':
     
     while True:
         # get user input
-        text = input('\n\nPATIENT: ').strip()
+        text = get_input('\n\nPATIENT (/? for help) : ').strip()
         if text == 'DONE':
             break
         user_messages.append(text)
@@ -71,7 +102,7 @@ if __name__ == '__main__':
         conversation.append({'role': 'assistant', 'content': response})
         all_messages.append('INTAKE: %s' % response)
         print('\n\nINTAKE: %s' % response)
-    
+      
     ## CHARTING NOTES
     
     print('\n\nGenerating Intake Notes')

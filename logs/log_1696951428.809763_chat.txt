@@ -1,0 +1,31 @@
+<<BEGIN PATIENT INTAKE CHAT>>
+
+PATIENT: My son threw up after dinner. He was complaining about his tommy hurting for 10 minutes.
+
+INTAKE: I'm sorry to hear that your son isn't feeling well. Can you tell me more about the nature of his stomach pain? For example, was it sharp or dull, constant or intermittent?
+
+PATIENT: It was constant for about 10 minutes. He kept repeating he was not feeling well.
+
+INTAKE: I see, thank you for the information. Can you tell me if the pain was located in a specific area of his stomach or was it more generalized?
+
+PATIENT: he seems to be pointing to his stomach. he felt better after throwing up.
+
+INTAKE: I'm glad to hear he's feeling a bit better. Can you tell me what he had for dinner before he started feeling unwell?
+
+PATIENT: He had a big dinner. He came back from school hungry. I noticed he did not eat much of his lunch.
+
+INTAKE: Thank you for sharing that. Could you please specify what exactly he ate for dinner? This can help identify if any particular food might have caused his discomfort.
+
+PATIENT: He had pasta, hotdogs, apple sauce, and a muffin.
+
+INTAKE: Thank you for the details. Has your son had any of these foods before, and if so, has he ever had a similar reaction?
+
+PATIENT: he had similar food before. except the muffin, which we picked up from the local bakery
+
+INTAKE: Thank you for that information. Did your son experience any other symptoms such as fever, diarrhea, or a rash after eating the muffin or any other food?
+
+PATIENT: I did not notice that.
+
+INTAKE: Understood. Has your son been exposed to anyone who is sick or has been sick recently? This could help determine if his symptoms might be related to an illness.
+
+<<END PATIENT INTAKE CHAT>>

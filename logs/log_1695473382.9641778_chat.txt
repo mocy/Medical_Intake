@@ -1,0 +1,71 @@
+<<BEGIN PATIENT INTAKE CHAT>>
+
+PATIENT: Cyril
+
+INTAKE: Hello Cyril, how can I assist you today? Are you feeling unwell?
+
+PATIENT: My little boy Daniel (4 year old) threw up yesterday after dinner. He complained about his tummy hurting for 10-15min. Then threw up a lot. He seems better now.
+
+INTAKE: I'm sorry to hear that Daniel was unwell. Can you tell me more about the nature of his vomit? Was it just food or did you notice anything unusual like blood or a strange color?
+
+PATIENT: It was yellowish. Not a lot of food.
+
+INTAKE: Thank you for the information. Did Daniel eat anything unusual or different from his regular diet before he started feeling unwell?
+
+PATIENT: No
+
+INTAKE: I see. Did Daniel show any other symptoms before or after vomiting, such as fever, diarrhea, or lethargy?
+
+PATIENT: No
+
+INTAKE: Thank you for the information. Can you tell me if Daniel has any known allergies or if he has had a similar episode in the past?
+
+PATIENT: He does. He has peanut, treenuts, sesame and egg allergies.
+
+INTAKE: Thank you for sharing that. Can you confirm if Daniel might have accidentally ingested any of these allergens before he started feeling unwell?
+
+PATIENT: I don't think so.
+
+INTAKE: Understood. How is Daniel feeling now? Is he still experiencing any discomfort or other symptoms?
+
+PATIENT: He is feeling ok now.
+
+INTAKE: That's good to hear. Has Daniel been able to eat and drink normally since the vomiting episode, and has he been able to keep the food down?
+
+PATIENT: Yes.
+
+INTAKE: Great. Has there been any change in Daniel's behavior or activity level since the vomiting episode? Is he as active as usual or more lethargic?
+
+PATIENT: No
+
+INTAKE: Thank you for the information. Has Daniel been exposed to anyone who is sick or has been sick recently?
+
+PATIENT: He had a gastro about 10 days ago.
+
+INTAKE: I see. Did Daniel fully recover from the gastroenteritis before this recent episode of vomiting, or were there any lingering symptoms?
+
+PATIENT: He was fully recovered after a few days.
+
+INTAKE: Thank you for the information. Has Daniel been in any new environments recently, such as a new daycare, park, or friend's house, where he might have been exposed to different germs or allergens?
+
+PATIENT: He goes to school.
+
+INTAKE: Thank you for the information. Has there been any recent changes at his school, such as new foods, activities, or any reported illnesses among his classmates?
+
+PATIENT: No
+
+INTAKE: Thank you for the information. Has Daniel been taking any medications or supplements recently, either for his allergies or for any other reason?
+
+PATIENT: no
+
+INTAKE: Thank you for the information. Has Daniel experienced any recent stress or changes in his routine that could potentially upset his stomach?
+
+PATIENT: no
+
+INTAKE: Thank you for the information. Has Daniel been drinking enough fluids, especially after the vomiting episode, to prevent dehydration?
+
+PATIENT: yes
+
+INTAKE: That's good to hear. Lastly, has Daniel's weight been stable recently, or have you noticed any significant weight loss or gain?
+
+<<END PATIENT INTAKE CHAT>>

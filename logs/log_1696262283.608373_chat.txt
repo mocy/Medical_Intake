@@ -1,0 +1,51 @@
+<<BEGIN PATIENT INTAKE CHAT>>
+
+PATIENT: Hi, my name is Cyril
+
+INTAKE: Hello Cyril, it's nice to meet you. I'm here to help you understand your financial situation better. Let's start with your income. What are your main sources of income? This could include your salary, wages, or any other income streams. The more details you provide, the better I can understand your available cash flow.
+
+PATIENT: my main source of income is my salaryu
+
+INTAKE: Thank you for sharing that, Cyril. Could you please provide more details about your salary? For instance, how much do you earn monthly or annually? Do you have any other sources of income such as bonuses, rental income, dividends, or interest from investments? This information will help me get a clearer picture of your total income.
+
+PATIENT: I earn about $2500 per month. that's my only source of income
+
+INTAKE: Thank you for sharing that information, Cyril. It's important to have a clear understanding of your income as we assess your financial situation. 
+
+Now, let's move on to your expenses. Could you please tell me about your major expenses? This would include things like rent or mortgage, food, utilities, transportation, loans, and any other significant expenses you have. Understanding your fixed costs and variable spending is important for creating a comprehensive financial picture.
+
+PATIENT: My rent is $400. I usually spend about $500 on food. Utilities are around $100 per month. Not sure about transportation. I have a pickup truck.
+
+INTAKE: Thank you for sharing those details, Cyril. It's good to see you have a clear understanding of your main expenses. 
+
+Regarding your transportation, could you estimate how much you spend monthly on fuel, maintenance, insurance, and any loan payments for your pickup truck? These costs can add up and are an important part of your overall financial picture.
+
+PATIENT: I pay about $200 per month on my car loan and insurance. Fuel is about $75 per month.
+
+INTAKE: Thank you for providing those details, Cyril. It's important to account for all expenses, including those related to transportation.
+
+Now, let's discuss any outstanding debts or liabilities you may have. This could include mortgages, student loans, credit cards, personal loans, back taxes, or other debt obligations. Understanding your debt obligations can significantly impact your financial health. Could you please share any details you have in this area?
+
+PATIENT: I have about 12,000 of student debt left. And a credit card debt of about $1000.
+
+INTAKE: Thank you for sharing that information, Cyril. It's important to have a clear understanding of all debts as they play a significant role in your overall financial health.
+
+Now, let's move on to your assets. Could you please tell me about any financial assets you have? This could include savings, investments like retirement accounts, stocks, bonds, real estate, or any other assets. These details will help me assess your financial foundation.
+
+PATIENT: The only money I have is $2000 in cash.
+
+INTAKE: Thank you for sharing that, Cyril. It's important to know about all your assets, even if they're currently limited. 
+
+Now, let's discuss your financial goals. Could you please share your top short-term and long-term financial goals? These could be anything from saving for a house, paying off debt, planning for retirement, etc. Knowing your targets is key to creating a financial plan.
+
+PATIENT: I'm not sure what they should be. can you advise me?
+
+INTAKE: Of course, Cyril. It's perfectly okay if you're not sure about your financial goals yet. However, to provide the best advice, I need to understand your current financial challenges or worries. Are there any specific financial difficulties or uncertainties you're currently facing? This information will help me focus my advice and suggest some potential short-term and long-term goals for you.
+
+PATIENT: It's hard to save any money, and be able to pay back my credit card.
+
+INTAKE: Thank you for sharing that, Cyril. It's not uncommon to face challenges with saving and managing debt. I appreciate your honesty and want to reassure you that there are strategies to help manage these issues. 
+
+Your responses will be analyzed carefully to provide useful financial recommendations tailored to your unique situation and goals. Please feel free to reach out if any other questions or concerns come to mind. Your financial health is important, and I'm here to help guide you through it.
+
+<<END PATIENT INTAKE CHAT>>

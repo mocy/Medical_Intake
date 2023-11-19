@@ -1,0 +1,23 @@
+## SENSES
+
+SIGHT: Look for signs of dehydration such as dry lips, sunken eyes, or decreased tears when crying. Also, observe the patient's general behavior and activity level. These signs could indicate if the vomiting episode has led to significant fluid loss.
+
+SOUND: Listen to the patient's speech. If it is slurred or slower than usual, it could indicate dehydration or other neurological issues.
+
+TOUCH: Palpate the abdomen for any tenderness, distension, or masses. This could help identify any underlying gastrointestinal issues that may have caused the vomiting episode.
+
+SMELL: Pay attention to the patient's breath. An unusual smell could indicate metabolic disorders such as diabetic ketoacidosis, although this is less likely given the patient's age and lack of other symptoms.
+
+## EXAMINATION
+
+- GENERAL PHYSICAL EXAMINATION: Assess the patient's general appearance, vital signs, and hydration status. This can provide clues about the severity of the vomiting episode and whether it has led to dehydration.
+- ABDOMINAL EXAMINATION: Palpate and auscultate the abdomen to check for any tenderness, distension, masses, or abnormal bowel sounds. This could help identify any gastrointestinal issues.
+- NEUROLOGICAL EXAMINATION: Assess the patient's level of consciousness, speech, and coordination. This can help rule out neurological causes of vomiting such as increased intracranial pressure.
+
+## INTERVIEW
+
+- HISTORY OF PRESENT ILLNESS: "Can you describe the stomach pain Daniel had before he vomited? Where was it located, and how severe was it?"
+- DIETARY HISTORY: "What did Daniel eat and drink in the 24 hours before the vomiting episode?"
+- EXPOSURE HISTORY: "Has Daniel been around anyone who has been sick recently, or has he been in any unusual environments?"
+- FAMILY HISTORY: "Does anyone in the family have a history of gastrointestinal issues or food intolerances?"
+- REVIEW OF SYSTEMS: "Has Daniel had any other symptoms such as headache, dizziness, or changes in bowel movements?"
